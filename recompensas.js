@@ -1,5 +1,5 @@
 var click_timeout = 2000;
-var clickQuestPeriodicity = 120000;
+var clickQuestPeriodicity = 180000;
 
 var collecting = false;
 function collectRoutine(){
